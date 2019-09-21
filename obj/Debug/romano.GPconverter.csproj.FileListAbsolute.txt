@@ -1,0 +1,15 @@
+C:\Users\VGD pc 2\source\repos\romano.GPconverter\bin\Debug\romano.GPconverter.exe.config
+C:\Users\VGD pc 2\source\repos\romano.GPconverter\bin\Debug\romano.GPconverter.exe
+C:\Users\VGD pc 2\source\repos\romano.GPconverter\bin\Debug\romano.GPconverter.pdb
+C:\Users\VGD pc 2\source\repos\romano.GPconverter\obj\Debug\romano.GPconverter.csprojAssemblyReference.cache
+C:\Users\VGD pc 2\source\repos\romano.GPconverter\obj\Debug\MainWindow.g.cs
+C:\Users\VGD pc 2\source\repos\romano.GPconverter\obj\Debug\App.g.cs
+C:\Users\VGD pc 2\source\repos\romano.GPconverter\obj\Debug\romano.GPconverter_MarkupCompile.cache
+C:\Users\VGD pc 2\source\repos\romano.GPconverter\obj\Debug\romano.GPconverter_MarkupCompile.lref
+C:\Users\VGD pc 2\source\repos\romano.GPconverter\obj\Debug\MainWindow.baml
+C:\Users\VGD pc 2\source\repos\romano.GPconverter\obj\Debug\romano.GPconverter.g.resources
+C:\Users\VGD pc 2\source\repos\romano.GPconverter\obj\Debug\romano.GPconverter.Properties.Resources.resources
+C:\Users\VGD pc 2\source\repos\romano.GPconverter\obj\Debug\romano.GPconverter.csproj.GenerateResource.cache
+C:\Users\VGD pc 2\source\repos\romano.GPconverter\obj\Debug\romano.GPconverter.csproj.CoreCompileInputs.cache
+C:\Users\VGD pc 2\source\repos\romano.GPconverter\obj\Debug\romano.GPconverter.exe
+C:\Users\VGD pc 2\source\repos\romano.GPconverter\obj\Debug\romano.GPconverter.pdb
